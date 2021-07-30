@@ -34,4 +34,4 @@ function sendMessage() {
     channel.send(embed);
 }
 
-bot.login("Nzg0OTYzMzY4MTc5NzI4Mzg0.X8w8Gg.2TyhrJ4-peYJDRrld8BFYlqOFtk");
+bot.login("");
